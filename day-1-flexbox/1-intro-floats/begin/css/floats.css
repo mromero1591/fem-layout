@@ -47,32 +47,5 @@ div img {
 /* Desktop screen Sizes */
 @media only screen and (min-width: 768px) {
 
-	.one-fourth {
-		float: left;
-		width: 20%;
-		margin-left: 4%; 
-		background-color: #984447;
-	}
-
-	.one-half {
-		float: left;
-		width: 45%;
-		margin-left: 4%; 
-		background-color: #ACD9F4;
-	}
-
-	.three-fourths {
-		float: left;
-		width: 70%;
-		margin-left: 4%;
-		background-color: #EEB868;
-	}
-
-	.full {
-		float: left;
-		width: 96%;
-		margin-left: 4%;
-		background-color: #387780;
-	}
 }
 
