@@ -6,6 +6,9 @@ ul {
 	padding: 0;
 	margin: 0;
 	border: 1px dotted red;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-start;
 }
 li {
 	border: 1px solid #999;
@@ -13,6 +16,11 @@ li {
 	padding: 0.5em;
 }
 
+.flex2{ 
+	border: 2px dotted blue; 
+	order: 2; 
+	flex: 2 1 25%;
+}
 
 
 
